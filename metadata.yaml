@@ -21,6 +21,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44105#The-Arabian-Nights-Volume-III--of-4-
 gutenberg_issued: '2013-11-05'
 gutenberg_type: Text
 identifiers:
