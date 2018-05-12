@@ -1,0 +1,43 @@
+_repo: The-Arabian-Nights-Volume-III--of-4-_44105
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Westall, Richard
+    alias: Westall, R. (Richard)
+    birthdate: 1765
+    deathdate: 1836
+    gutenberg_agent_id: '42572'
+    url: http://www.gutenberg.org/2009/agents/42572
+covers:
+- cover_type: archival
+  image_path: 44105-h/images/cover-v3.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '2013-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44105'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arabs -- Folklore'
+- !lcc 'PJ'
+- !lcsh 'Folklore -- Arab countries'
+- !lcsh 'Fairy tales'
+tableOfContents: The story of Noureddin and the fair Persian -- The story of Beder,
+  prince of Persia, and Giahaure, princess of Samarcand -- The story of Ganem, son
+  to Abou Ayoub, and known by the surname of Love’s Slave -- The story of Prince Zeyn
+  Alasnam, and the king of the genii -- The story of Codadad and his brothers -- The
+  story of the princess of Deryabar -- The story of the sleeper awakened.
+title: The Arabian Nights, Volume 3 (of 4)
+url: http://www.gutenberg.org/ebooks/44105
